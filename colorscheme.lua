@@ -4,7 +4,7 @@ local hour = tonumber(os.date("%H"))
 local day_time = 7
 local night_time = 18
 
--- Set your preferred light and colorscheme
+-- Set your preferred light and dark colorschemes
 local light_theme = "onelight"
 local dark_theme = "onedark_dark"
 
